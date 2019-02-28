@@ -1,0 +1,6 @@
+a = int(input("enter first num"))
+b = int(input("enter second num"))
+print("a = ", a)
+print("b = ", b)
+print("a + b =", a+b)
+print("a - b =", a-b)
